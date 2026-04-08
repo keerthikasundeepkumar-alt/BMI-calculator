@@ -57,7 +57,4 @@ BMI Trend Graph
 >Install required library:pip install matplotlib
 >Run the program:python bmi_calc.py
 # SMART BMI TRACKER
-
-Weight
-BMI
-Date
+https://www.linkedin.com/posts/keerthika-sundeepkumar-195ab4316_python-datascience-projects-ugcPost-7447683124962127873--zSx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBArwEBn0CQ7bXWiwbuJSsKJ0h7BY8BmYw
